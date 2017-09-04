@@ -12,7 +12,7 @@ Below, put
 3. 201502022 Kimdaeun 
      ...
      
-     <put yours here!!!>
+     0. jaesung(2392): Java, Python, C
      
      ...
 
