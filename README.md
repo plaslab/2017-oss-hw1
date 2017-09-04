@@ -14,9 +14,8 @@ Below, put
      
      <put yours here!!!>
 
-     \n201502043 김혁진
-     \n201502022 Kimdaeun 
-    	testing 
+     201502043 김혁진
+     201502022 Kimdaeun 
      ..
 
 
