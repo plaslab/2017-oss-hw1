@@ -12,7 +12,7 @@ Below, put
 
      ...
      
-     <put yours here!!!>
+3. JeongSeokHyeon(2480) : Java, Python, C
      
      ...
 
