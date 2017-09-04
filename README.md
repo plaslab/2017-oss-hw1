@@ -12,7 +12,7 @@ Below, put
 3. 201502022 Kimdaeun 
      ...
      
-     <put yours here!!!>
+3. JeongSeokHyeon(2480) : Java, Python, C
      
      ...
 
