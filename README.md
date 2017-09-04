@@ -13,10 +13,11 @@ Below, put
      ...
      
      <put yours here!!!>
-     201502043 김혁진
-     201502022 Kimdaeun 
-     
-     ...
+
+     \n201502043 김혁진
+     \n201502022 Kimdaeun 
+    	testing 
+     ..
 
 
 Contact: eschough@cnu.ac.kr
