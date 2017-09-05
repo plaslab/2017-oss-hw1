@@ -12,10 +12,7 @@ Below, put
 3. jinhyeok (2387) : Java, Python, C
 4. 혁진(2043) : no
 5. Kimdaeun(2022) : no
-
      
-     <put yours here!!!>
-
 ###201502043 김혁진
 ###201502022 Kimdaeun 
 
