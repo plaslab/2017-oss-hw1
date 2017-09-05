@@ -10,13 +10,13 @@ Below, put
 1. MoreTester (1111) : Java, C, Python
 2. Monster (1234) : C, Pythoh, Java
 3. jinhyeok (2387) : Java, Python, C
-     ...
+     '''
      
      <put yours here!!!>
 
      201502043 김혁진
      201502022 Kimdaeun 
-     ...
+     '''
 
 
 Contact: eschough@cnu.ac.kr
