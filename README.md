@@ -10,6 +10,8 @@ Below, put
 1. MoreTester (1111) : Java, C, Python
 2. Monster (1234) : C, Pythoh, Java
 3. jinhyeok (2387) : Java, Python, C
+4. 혁진(2043) : no
+5. Kimdaeun(2022) : no
 
      
      <put yours here!!!>
