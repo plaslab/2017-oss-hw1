@@ -16,7 +16,7 @@ Below, put
 
      201502043 김혁진
      201502022 Kimdaeun 
-     ..
+     ...
 
 
 Contact: eschough@cnu.ac.kr
