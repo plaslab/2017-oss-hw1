@@ -15,7 +15,8 @@ Below, put
      <put yours here!!!>
 
      201502043 김혁진
-     201502022 Kimdaeun 
+     201502022 Kimdaeun
+     3. 이석훈 (2453) : C, Python, Java
      ..
 
 
