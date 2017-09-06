@@ -23,7 +23,7 @@ Below, put
 14. chunhoya (2491) : C, Pythoh, Java
 15. 이석훈 (2453) : C, Python, Java
 16. JINSU (3391) : Python, Java, C
-17. goodluckdays (2428) : C, Python, Java
+17. goodluckdays (2482) : C, Python, Java
 18. kosekkyu (2360) : Java, C, Python
 19. jsyoo8 (2436) : Java, Python, C++
 
