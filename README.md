@@ -24,6 +24,7 @@ Below, put
 15. 이석훈 (2453) : C, Python, Java
 16. JINSU (3391) : Python, Java, C
 17. goodluckdays (2428) : C, Python, Java
+18. kosekkyu (2360) : Java, C, Python
 
 ```
 <put yours here!!!>
