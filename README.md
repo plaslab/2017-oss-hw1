@@ -26,8 +26,9 @@ Below, put
 17. goodluckdays (2482) : C, Python, Java
 18. koseokkyu (2360) : Java, C, Python
 19. jsyoo8 (2436) : Java, Python, C++
-20. KimSeonhee (0221) : Java, Python, C
+20. tkfkdqldb1 (2026) : Java, Python, C
 21. SungminKim (2374) : Java, C, Python
+22. supercola(2030) : Java, Python, C
 ```
 <put yours here!!!>
 ```
