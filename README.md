@@ -24,7 +24,7 @@ Below, put
 15. 이석훈 (2453) : C, Python, Java
 16. JINSU (3391) : Python, Java, C
 17. goodluckdays (2482) : C, Python, Java
-18. kosekkyu (2360) : Java, C, Python
+18. koseokkyu (2360) : Java, C, Python
 19. jsyoo8 (2436) : Java, Python, C++
 20. KimSeonhee (0221) : Java, Python, C
 21. SungminKim (2374) : Java, C, Python
