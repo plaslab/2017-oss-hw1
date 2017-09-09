@@ -32,7 +32,7 @@ Below, put
 
 23. Daeyeong(2469) : Java, C, Python
 ```
-<put yours here!!!>
+24. SeungJin Baek(2149) : Java, C, Python
 
 ```
 
