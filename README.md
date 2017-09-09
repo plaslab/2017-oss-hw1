@@ -35,5 +35,6 @@ Below, put
 24. SeungJin Baek(2149) : Java, C, Python
 
 ```
+25. Chihyeon (3405) : C, Java, Python
 
 Contact: eschough@cnu.ac.kr
