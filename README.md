@@ -33,6 +33,7 @@ Below, put
 23. Daeyeong(2469) : Java, C, Python
 ```
 24. SeungJin Baek(2149) : Java, C, Python
+25. Jihye Park(2057) : Java, C, Python
 
 ```
 
