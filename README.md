@@ -1,4 +1,4 @@
-# 2017-oss-hw1
+﻿# 2017-oss-hw1
 This project is only for OSS class of CSE CNU.
 
 Below, put
@@ -33,6 +33,7 @@ Below, put
 23. Daeyeong(2469) : Java, C, Python
 ```
 24. SeungJin Baek(2149) : Java, C, Python
+25. amuse1991 (4280) : C, Java, Python
 
 ```
 
