@@ -20,7 +20,7 @@ Below, put
 11. Ryan (2493) : Java, C, Python
 12. tjrwlgns1198 (2418) : Java, C, Python
 13. JeongSeokHyeon (2408) : Java, Python, C
-14. cnuhoya (2491) : C, Pythoh, Java
+14. ChoiGwangHo (2491) : C, Pythoh, Java
 15. 이석훈 (2453) : C, Python, Java
 16. JINSU (3391) : Python, Java, C
 17. goodluckdays (2482) : C, Python, Java
@@ -32,6 +32,10 @@ Below, put
 23. Daeyeong(2469) : Java, C, Python
 24. SeungJin Baek(2149) : Java, C, Python
 25. ChungWan (2467) : C, Pythoh, Java
+26. MinsungJoh(2487) : JAVA, C, Python
+27. Dongha(2141) : Java, C, Python
+28. sungwook(2402) : Java, C, Python
+29. Jihye Park(2057) : Java, C, Python
 
 ```
 Contact: eschough@cnu.ac.kr
