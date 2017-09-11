@@ -37,6 +37,7 @@ Below, put
 28. sungwook(2402) : Java, C, Python
 29. Jihye Park(2057) : Java, C, Python
 30. YoungSun Kang(2392) : Java, Python, C
+31. amuse1991 (4280) : C, Java, Python
 ```
 Contact: eschough@cnu.ac.kr
 ```
